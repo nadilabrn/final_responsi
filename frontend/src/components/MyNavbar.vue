@@ -6,7 +6,7 @@
         <li>
           <a
             href="#profil"
-            class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration-300"
+            class="text-gray-600 hover:text-pink-500 transform hover:-translate-y-0.5 transition-all duration-300"
           >
             Profil
           </a>
@@ -14,7 +14,7 @@
         <li>
           <a
             href="#pendidikan"
-            class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration-300"
+            class="text-gray-600 hover:text-pink-500 transform hover:-translate-y-0.5 transition-all duration-300"
           >
             Pendidikan
           </a>
@@ -22,7 +22,7 @@
         <li>
           <a
             href="#skill"
-            class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration-300"
+            class="text-gray-600 hover:text-pink-500 transform hover:-translate-y-0.5 transition-all duration-300"
           >
             Skill
           </a>
@@ -30,7 +30,7 @@
         <li>
           <a
             href="#proyek"
-            class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration-300"
+            class="text-gray-600 hover:text-pink-500 transform hover:-translate-y-0.5 transition-all duration-300"
           >
             Proyek
           </a>
@@ -38,7 +38,7 @@
         <li>
           <a
             href="#kontak"
-            class="text-gray-600 hover:text-blue-500 transform hover:-translate-y-0.5 transition-all duration-300"
+            class="text-gray-600 hover:text-pink-500 transform hover:-translate-y-0.5 transition-all duration-300"
           >
             Kontak
           </a>

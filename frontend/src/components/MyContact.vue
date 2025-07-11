@@ -3,7 +3,7 @@ import SectionTitle from './SectionTitle.vue';
 </script>
 
 <template>
-  <footer id="kontak" class="py-20 bg-gray-800 text-white">
+  <footer id="kontak" class="py-20 bg-pink-800 text-white">
     <div class="container mx-auto px-6 text-center">
       <SectionTitle title="Hubungi Saya" />
 
@@ -13,7 +13,7 @@ import SectionTitle from './SectionTitle.vue';
 
       <a
         href="mailto:nadilafebriana20@gmail.com"
-        class="bg-blue-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-700 transition-colors duration-300 inline-block mb-12"
+        class="bg-pink-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-pink-700 transition-colors duration-300 inline-block mb-12"
       >
         Kirim Email
       </a>
@@ -26,13 +26,24 @@ import SectionTitle from './SectionTitle.vue';
         >
           GitHub
         </a>
-        <a
-          href="#"
-          target="_blank"
-          class="text-gray-400 hover:text-white transition-colors duration-300"
-        >
-          LinkedIn
-        </a>
+        <div class="flex space-x-4">
+  <a
+    href="https://www.instagram.com/fenadila"
+    target="_blank"
+    class="text-gray-400 hover:text-white transition-colors duration-300"
+  >
+    Instagram
+  </a>
+  <a
+    href="https://www.tiktok.com/@justworld"
+    target="_blank"
+    class="text-gray-400 hover:text-white transition-colors duration-300"
+  >
+    TikTok
+  </a>
+
+</div>
+
       </div>
 
       <p class="text-gray-500">

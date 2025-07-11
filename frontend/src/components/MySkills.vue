@@ -2,19 +2,19 @@
 import SectionTitle from './SectionTitle.vue';
 
 const skills = [
-  { name: 'Vue.js', level: 'Mahir' },
-  { name: 'JavaScript', level: 'Mahir' },
-  { name: 'Tailwind CSS', level: 'Mahir' },
-  { name: 'Node.js', level: 'Menengah' },
-  { name: 'Express.js', level: 'Menengah' },
-  { name: 'PostgreSQL', level: 'Menengah' },
-  { name: 'Git & GitHub', level: 'Mahir' },
-  { name: 'HTML5 & CSS3', level: 'Mahir' },
+  { name: 'CapCut', level: 'Mahir' },
+  { name: 'Canva', level: 'Mahir' },
+  { name: 'Adobe Premiere Pro', level: 'Menengah' },
+  { name: 'Adobe Illustrator', level: 'Menengah' },
+  { name: 'Adobe InDesign', level: 'Menengah' },
+  { name: 'Adobe Photoshop', level: 'Menengah' },
+  { name: 'Visual Studio Code', level: 'Mahir' },
+  { name: 'Figma', level: 'Mahir' },
 ];
 </script>
 
 <template>
-  <section id="skill" class="py-20 bg-gray-50">
+  <section id="skill" class="py-20 bg-pink-50">
     <div class="container mx-auto px-6">
       <SectionTitle title="Keahlian & Teknologi" />
 

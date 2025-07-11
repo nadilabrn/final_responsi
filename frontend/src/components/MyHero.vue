@@ -8,7 +8,7 @@
         class="text-5xl font-bold text-gray-800 mb-4 animate-slide-in-left"
         style="animation-delay: 200ms;"
       >
-        Halo, Saya <span class="text-blue-600">Nadila Febriana</span>
+        Halo, Saya <span class="text-pink-600">Nadila Febriana</span>
       </h1>
       <p
         class="text-xl text-gray-600 mb-8 animate-slide-in-left"
@@ -19,7 +19,7 @@
       </p>
       <a
         href="#kontak"
-        class="bg-blue-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-blue-700 transition-colors duration-300 inline-block animate-slide-in-left"
+        class="bg-pink-600 text-white font-bold py-3 px-6 rounded-lg hover:bg-pink-700 transition-colors duration-300 inline-block animate-slide-in-left"
         style="animation-delay: 600ms;"
       >
         Hubungi Saya
@@ -28,7 +28,7 @@
 
     <div class="md:w-1/2 flex justify-center animate-slide-in-right">
       <img
-        src="https://via.placeholder.com/400"
+        src="E:\web\final-responsi\frontend\src\assets\image\dila.jpg"
         alt="Foto Profil"
         class="w-80 h-80 rounded-full object-cover shadow-lg"
       />
